@@ -25,5 +25,6 @@ Solidity, Ethereum Sepolia, ethers.js, TypeScript, Next.js, React, Python, FastA
 | 05 | [Decentralised Storage & IPFS](./session-05/) | Implementation missing |
 | 06 | [Wallet Basics — Keys, Addresses & Digital Signatures](./session-06/) | Source available |
 | 07 | [Custodial Keys & Transaction Services](./session-07/) | Source available |
+| 10 | [Unattended Oracle Service](./session-10/) | Source available; deployment and verification pending |
 
 Deployment addresses, transaction hashes, names, and enrolment details remain placeholders or are marked as not recorded where they were not present in the source files.
